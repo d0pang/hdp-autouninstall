@@ -1,0 +1,17 @@
+postgres
+kms
+livy
+spark
+ranger
+hdfs
+zeppelin
+hadoop
+knox
+zookeeper
+hbase
+yarn
+mapred
+kafka
+hive
+oozie
+sqoop
